@@ -9,3 +9,4 @@ kafka
 Zookeeper
 Hbase
 MongoDb
+Janvi
