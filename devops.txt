@@ -3,3 +3,8 @@ git and github
 jenkins
 docker kubernetes 
 ansible
+terraform
+maven
+nexus
+sonarqube
+tomcat
