@@ -1,0 +1,5 @@
+Linux and shell
+git and github
+jenkins
+docker kubernetes 
+ansible
