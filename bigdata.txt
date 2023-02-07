@@ -10,3 +10,4 @@ Zookeeper
 Hbase
 MongoDb
 Janvi
+Effecctive the next week we're going to learn Ansible -config management tool
