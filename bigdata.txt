@@ -6,3 +6,6 @@ pig
 sqoop
 flume 
 kafka
+Zookeeper
+Hbase
+MongoDb
