@@ -10,3 +10,4 @@ sonarqube
 tomcat
 Sandhya
 Sairama
+terraform is the tool we're going to discuss effectiv etoday
